@@ -4,7 +4,7 @@ Topic Elements of Game Design
 
 ● Identify the important game design elements.
 
-| sl.no. | standard game element        | pac-man game elements                                        |
+| sl.no. | standard game element        | hustle in the jungle game elements                                        |
 | ------ | ---------------------------- | ------------------------------------------------------------ |
 | 1.     | playing characters(PC)       | 1 (sofia)                                                    |
 | 2.     | non-playing characters (NPC) | different obstacles (animals,insect)                         |
